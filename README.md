@@ -1,2 +1,2 @@
-# Asteroid-Retector-Twitter-Bot
+# Asteroid-Detector-Twitter-Bot
 I made this bot in python which detects asteroids and other nearby objects in space. It posts updates every 30 minutes...
